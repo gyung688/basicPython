@@ -1,4 +1,4 @@
 # basicPython
 # I followed youtube below.
 # https://www.youtube.com/watch?v=kWiCuklohdY
-# 58:35
+# 1:30:36
